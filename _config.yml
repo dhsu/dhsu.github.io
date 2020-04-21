@@ -1,0 +1,16 @@
+# Setup
+title:               DH
+tagline:             'Words and Stuff'
+description:         'Mostly just notes I do not want to lose'
+url:                 http://dhsu.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             0.0.1
+#google_analytics_id: #UA-XXXX-Y
