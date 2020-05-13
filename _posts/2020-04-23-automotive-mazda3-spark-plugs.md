@@ -35,7 +35,7 @@ published: true
 
 ## Procedure
 
-1. Wait for the engine to cool down unless you're a firebender or want some sick burns.
+1. Wait for the engine to cool down unless you're a firebender or don't mind some sick burns.
 
 1. Pop off the plastic engine cover. If you've never done this, just pull up from the back of the cover with your hands. Do not eat the cover.
 
@@ -54,7 +54,7 @@ published: true
 1. Nothing to do in this step except to check out this 100k+ miles spark plug.
 ![remove spark plug]({{ page.imagedir }}/sp5.jpg)
 
-1. Add a thin coating of di-electric grease to the ceramic portion of the new spark plug, and another thin layer to the inside of the rubber opening on the ignition coil. Tip: use a Q... tip. Be sure to not grease the spark plug electrode or the contact inside the ignition coil. Di-electric grease is not non-conductive.
+1. Add a thin coating of di-electric grease to the ceramic portion of the new spark plug, and another thin layer to the inside of the rubber opening on the ignition coil. Tip: use a Q... tip. Be sure to not grease the spark plug electrode or the electrode contact inside the ignition coil. Di-electric grease is not non-conductive.
 
 1. This one's a freebie. According to NGK, their spark plug threads have a special coating that do not require any anti-seize. Don't be a fool and over-torque your plugs because you anti-seized the crap out of them.
 
