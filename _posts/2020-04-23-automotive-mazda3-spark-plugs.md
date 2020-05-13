@@ -60,7 +60,7 @@ published: true
 
 1. Another freebie. Don't gap the spark plug. Iridium plugs are delicate, and furthermore, these are already pregapped to 0.05". This is within the service manual's spec of 0.049" - 0.053".
 
-1. Screw the spark plug back into the cylinder head. **Do NOT over tighten.** If you're cool, tighten with a torque wrench to 7.2 to 14.5 foot pounds. If you're not, NGK's [own website](https://www.ngk.com/learning-center/article/522/plug-torque-settings) says:
+1. Screw the spark plug back into the cylinder head. **Do NOT over-tighten.** If you're cool, tighten with a torque wrench to 7.2 to 14.5 foot pounds. If not, NGK's [own website](https://www.ngk.com/learning-center/article/522/plug-torque-settings) says:
 > If a torque wrench is unavailable, finger tighten the spark plug, then use a plug wrench to tighten. 1/2-2/3 turn on plugs with a gasket. 1/12-1/8 turn on plugs with a tapered seat.
 
 1. Put the ignition coil back along with its screw, and reconnect the wire.
@@ -69,6 +69,6 @@ published: true
 
 
 ## Results
-- No more hesitant flatulence during start up
+- Reduced flatulating hesitance during start up
 - Smoother idling
-- Short-term and long-term fuel trim in healthy range
+- Short-term and long-term fuel trim within healthy range
