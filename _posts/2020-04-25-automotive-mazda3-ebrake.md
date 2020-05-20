@@ -23,18 +23,18 @@ The cupholder panel, which also surrounds the hand brake, is held in place by a 
 ![clip 2]({{ page.imagedir }}/eb2.jpg)
 ![clip 3]({{ page.imagedir }}/eb3.jpg)
 
-1. This next tab is the worst. I pried with a small, flat head screwdriver. Those with OCD may notice the small dents I made in the plastic.
+1. This next tab is the worst. I pried with a small, flat head screwdriver. You may notice the small dents I made in the plastic.
 ![clip 4]({{ page.imagedir }}/eb4.jpg)
 
 1. You should now be able to detach most of the cupholder tray as shown. If not, just yank around in random spots until the back portion comes free. The front of the tray is still secured by another set of tabs.
 ![clip 5]({{ page.imagedir }}/eb5.jpg)
 
-1. The panel's liberation nears. Your excitement crescendos, but don't get cocky. Take note of the positions and orientations of the remaining tabs (see photo), and remove the panel with finesse.
+1. The panel's liberation nears, but it's no time to get cocky. Take note of the positions and orientations of the remaining tabs (see photo), and remove the panel however you can.
 ![remaining clips]({{ page.imagedir }}/eb7.jpg)
 
 1. With the panel removed, you'll see a 10mm nut threaded over a long bolt. Tightening the nut tightens the e-brake.
 ![exposed]({{ page.imagedir }}/eb6.jpg)
 ![tightening]({{ page.imagedir }}/eb8.jpg)
 
-1. Don't be a savage. Clean that Cheeto dust and dried Frappuccino off that cupholder before reinstalling it.
+1. Don't be a savage. Clean that Cheeto dust and dried blood off that cupholder before reinstalling it.
 ![clean]({{ page.imagedir }}/eb9.jpg)

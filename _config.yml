@@ -10,6 +10,7 @@ permalink:           pretty
 # Gems
 plugins:
   - jekyll-paginate
+  
 
 # Custom vars
 version:             0.0.1

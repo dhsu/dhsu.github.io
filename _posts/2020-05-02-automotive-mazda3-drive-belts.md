@@ -26,7 +26,7 @@ published: true
   - Serpentine belt: [Continental 4060514](https://www.autozone.com/cooling-heating-and-climate-control/belt/continental-serpentine-belt-4060514/940191_0_8238)
   - Tensioner pulley: [Duralast Idler Pulley 231015](https://www.autozone.com/external-engine/idler-pulley/duralast-idler-pulley-231015/634079_682371_0)
 
-> My Mazda had over 100k miles under its belts. Ba-dum, chshhsh. Despite a crack-free belt inspection, I decided to do a little preventative maintenance and replace both the serpentine and a/c drive belts. And since the tensioner pulley had a few millimeters of play, it was getting replaced as well.
+> My Mazda had over 100k miles under its belt. Ba-dum, chshhsh. Despite a crack-free belt inspection, I decided to do a little preventative maintenance and replace the serpentine and a/c drive belts. And since the tensioner pulley had a few millimeters of play, it had to go too.
 
 
 ## Layman's Intro to Drive Belts
@@ -36,7 +36,7 @@ The prime objective of the internal combustion engine is to convert downward mot
 
 ## Procedure
 
-1. Use a treat to lure any beloved beings away from the car for their safety. I hear boba works well on certain humans.
+1. Use a treat to lure any beloved beings away from the vehicle. Boba works on me.
 ![maxi]({{ page.imagedir }}/db1.jpg)
 
 1. Raise the front of the vehicle onto jack stands. Don't forget to first engage the e-brake and use wheel chocks on the rear tires. Remove the front right wheel and use it as a backup for the jack stands.
@@ -45,10 +45,10 @@ The prime objective of the internal combustion engine is to convert downward mot
 1. Remove the splash guard as seen on the right of the photo. This is fastened on top by two 10mm bolts and a screw as shown. The bottom is held in with two 10mm bolts.
 ![remove splash guard]({{ page.imagedir }}/db3.jpg)
 
-1. Removing the splash guard exposes the crankshaft pulley (top), a/c compressor pulley (bottom) and a/c drive belt. The a/c drive belt has no tensioner - it's a stretch belt and a pain in the ass to install. The serpentine belt resides on another crankshaft pulley behind the one visible in the photo and is more accessible from the engine bay. You cannot replace the serpentine belt without first removing the a/c stretch belt.
+1. Removing the splash guard exposes the crankshaft pulley (top), a/c compressor pulley (bottom) and a/c drive belt. The a/c drive belt has no tensioner - it's a stretch belt and a pain in the ass to install. The serpentine belt, more accessible from the engine bay, rides on a separate set of ribs on the crankshaft pulley behind the a/c belt. You cannot replace the serpentine belt without first removing the a/c stretch belt.
 ![ac belt exposed]({{ page.imagedir }}/db4.jpg)
 
-1. The only way to reasonably remove the a/c stretch belt is to slice it. If you quit after this, you can still drive around without air conditioning. You might even get better mileage without the friction of a second drive belt. What you won't be getting is an erect set of nipples in the summer heat. That's an option I desire, personally, so I'll be installing a new a/c drive belt.
+1. The only way to reasonably remove the a/c stretch belt is to slice it. If you quit after this, you can still drive around without air conditioning. You might even get better mileage without the friction of a second drive belt. What you won't be getting is an erect set of nipples despite the scorching summer heat.
 ![cut ac belt]({{ page.imagedir }}/db6.jpg)
 
 1. Up in the engine bay, take a mental snapshot of how the belt wraps around the different pulleys before removing it. In the photo from the bottom left, the belt comes from the crankshaft pulley up to the tensioner pulley, back down and left to the shiny water pump pulley, down and right to the alternator pulley, and finally back to the crankshaft pulley. 
@@ -65,7 +65,7 @@ The prime objective of the internal combustion engine is to convert downward mot
 1. If you've made it this far, know that the hardest part lies ahead. Mazda makes a special tool to install the a/c stretch belt, but the consensus is that using a simple zip tie hack is far easier than using the tool itself. Wrap the belt around the a/c compressor, and zip tie the top left to the crankshaft pulley as shown.
 ![zip tie]({{ page.imagedir }}/db9.jpg)
 
-1. Now, use a socket wrench with 21mm socket to rotate the crankshaft clockwise from the crankshaft bolt at the center of the pulley. For some engines, you shouldn't rotate the crankshaft opposite of its operating direction, so we'll just adhere to that principle here. While rotating, guide the belt towards proper seating. The zip ties may pop and break, and that is completely normal. If all of them break, you'll have to start over. Once you get the a/c belt on, remove the zip ties, and give the crankshaft a couple more rotations to ensure the belt is seated properly.
+1. Now, use a socket wrench with 21mm socket to rotate the crankshaft clockwise from the crankshaft bolt at the center of the pulley. For some engines, you shouldn't rotate the crankshaft opposite of its operating direction, so we'll just adhere to that principle here. While rotating, guide the belt towards proper seating. The zip ties may pop and break, and that is completely normal. If all of them break before the belt is seated, you'll have to start over. Once you get the a/c belt on, remove the zip ties, and give the crankshaft a couple more rotations to ensure the belt is installed properly.
 
 1. Start your car and make sure it doesn't explode.
 
